@@ -1,6 +1,6 @@
 package org.tucano_caio.interface_contas;
 
-public interface Conta {
+public interface InterfaceConta {
 
     void depositar ();
     void sacar ();
