@@ -11,7 +11,7 @@ Abstrair uma solução Orientada a Objetos em Java, interpretando o seguinte cen
 ## Sobre o Desenvolvimento
 
 1. Interface;
-   - Criação da interface InterfaceConta para definir contrato dos principais metodos, `Sacar`, `Depositar`, `Transferir`, `Extrato`;
+   - Criação da interface `InterfaceConta` para definir contrato dos principais metodos, `Sacar`, `Depositar`, `Transferir`, `Extrato`;
      
 2. Herança.
    - Criação das classes `Corrente` e `Poupanca` herdando de `Contas` para otimizar a escrita;
